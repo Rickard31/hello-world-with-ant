@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh 'ant jar'
+                sh 'ant compile'
             }
         }
         stage('run') {
