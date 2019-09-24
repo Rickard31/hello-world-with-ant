@@ -1,3 +1,3 @@
-Ant demo project (each commit should already run through Jenkins)
+Ant demo project
 
 see https://ant.apache.org/manual/tutorial-HelloWorldWithAnt.html
